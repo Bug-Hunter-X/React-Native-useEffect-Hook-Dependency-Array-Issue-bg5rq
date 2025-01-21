@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React Native development involving the `useEffect` hook.  The issue arises from incorrectly specifying the dependency array, leading to unexpected behavior.  The `bug.js` file showcases the erroneous code, while `bugSolution.js` provides the corrected version.
